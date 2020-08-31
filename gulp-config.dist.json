@@ -1,0 +1,6 @@
+{
+  "wwwDir"       : "/var/www",
+  "template"     : "protostar",
+  "admin_template" : "isis",
+  "defaultTasks" : ["copy", "watch"]
+}
